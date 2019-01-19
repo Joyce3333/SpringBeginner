@@ -1,0 +1,2 @@
+Start tomcat: bin/startup.sh
+Shut down tomcat:  bin/shutdown.sh
